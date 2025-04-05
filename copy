@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <img src="images/dorea-logo.png" alt="Dorea Pictures Logo" width="120">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <img src="images/your-photo.jpg" alt="Your Name" width="200">
+      <h1>Your Name</h1>
+      <p>Hello! I'm [Your Name], a passionate creative and aspiring web developer. I’m currently part of the CodeTribe Bootcamp, where I’m learning how to build beautiful websites using HTML, CSS, and more!</p>
+    </section>
+
+    <section>
+      <h2>Watch My Video</h2>
+      <video controls width="400">
+        <source src="your-video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </section>
+  </main>
+
+  <footer>
+    <p>Connect with me:</p>
+    <a href="#">Instagram</a> | <a href="#">LinkedIn</a> | <a href="#">GitHub</a><br>
+    <p>Phone: +123-456-7890</p>
+  </footer>
+
+</body>
+</html>
